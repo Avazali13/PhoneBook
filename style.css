@@ -37,3 +37,22 @@ table{
     }
    }
 }
+
+#popup{
+        position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    flex-direction: column;
+ input{
+    padding: 2rem 10rem;
+    
+ }
+   
+}
+
+.hidden{
+    display:  none;
+
+}

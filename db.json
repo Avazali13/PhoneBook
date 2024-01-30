@@ -1,12 +1,18 @@
 {
   "users": [
     {
-        "firstname" : "Avazali",
-    "lastname" : "Aliyev",
-    "phone" : 994705820861,
-    "email" : "eliyevevezeli@gmail.com",
-    "id":"1"
+      "firstname": "savazsas",
+      "lastname": "Aliyev",
+      "phone": "994705820861",
+      "email": "eliyevevezeli@gmail.com",
+      "id": "1"
+    },
+    {
+      "id": "36e6",
+      "firstname": "Avazali",
+      "lastname": "Aliyev",
+      "phone": "994705820861",
+      "email": "eliyevevezeli@gmail.com"
     }
-  
   ]
 }
